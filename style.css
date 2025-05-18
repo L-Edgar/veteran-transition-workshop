@@ -93,6 +93,9 @@ body{
     .navbar .navbar-nav .nav-link  {
         padding: 10px 0;
     }
+    .nav-start h1{
+        display: none;
+    }
 }
 
 #about .years .display-1 {
